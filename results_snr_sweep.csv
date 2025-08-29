@@ -1,0 +1,15 @@
+demo,snr,mode,seed,metric,value
+RNN,10.0,even,42,fc_corr,0.83315626614972
+RNN,10.0,uneven,42,fc_corr,0.8393730488334908
+RNN,5.0,even,42,fc_corr,0.8431349521922624
+RNN,2.0,uneven,42,fc_corr,0.8257393563511357
+RNN,2.0,even,42,fc_corr,0.8306135447958476
+RNN,5.0,uneven,42,fc_corr,0.8123281438307635
+RNN,baseline,none,42,fc_corr,0.9100382860076035
+
+WBM,2.0,even,42,fc_corr,0.3934234868223482
+RNN,2.0,even,2,fc_corr,0.793235774549235
+RNN,2.0,uneven,2,fc_corr,0.8051076377906962
+RNN,5.0,even,2,fc_corr,0.8457387358728932
+RNN,5.0,uneven,2,fc_corr,0.8386750185967946
+RNN,10.0,even,2,fc_corr,0.8380582491332078
